@@ -3,7 +3,7 @@
 - [Resume](https://amirhoseinghafari.github.io/resume/) 
 - [SOP](https://amirhoseinghafari.github.io/SOP/)
 - [GitHub](https://github.com/amirhoseinghafari)
-- [js]https://github.com/amirhoseinghafari/PNU-1339-AR/blob/main/soloLearn.jpg)
+- [js](https://github.com/amirhoseinghafari/PNU-1339-AR/blob/main/soloLearn.jpg)
 - [patchwork](https://github.com/amirhoseinghafari/PNU-1339-AR/blob/main/patchwork.png)
 -----------------
 ## مقطع کارشناسی
